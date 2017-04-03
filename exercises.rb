@@ -6,7 +6,22 @@ ages = [44, 45, 22, 19]
 
 flip = ["heads", "heads"]
 
-bands= ["wavves", "thundercat", "ghetts"]
+bands= ["wavves", "thundercat", "frank ocean"]
+
+colours = ['R', 'G', 'b', 'y', 'o']
+# hashes
+
+empty_hash = {}
+
+words = {monkey: "behave in a silly or playful way", tie:"connect; link" }
+
+movies {alien: 1979, eternal sunshine of the spotless mind: 2004}
+
+cities {toronto: 2,615,060, chicago: 2,615,060 }
+
+frieds = {Ben: 40, Andrea: 22}
+
+cities {}
 colours[3] - yellow
 colour[4] - orange
 
