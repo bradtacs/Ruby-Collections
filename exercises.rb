@@ -1,11 +1,12 @@
 # Arrays
 
-empthy_array = []
-
 colours = ['red', 'green', 'blue', 'yellow', 'orange']
 
-mixed_array [10, true, nil, 'hello']
+ages = [44, 45, 22, 19]
 
+flip = ["heads", "heads"]
+
+bands= ["wavves", "thundercat", "ghetts"]
 colours[3] - yellow
 colour[4] - orange
 
